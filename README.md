@@ -1,6 +1,6 @@
 # Clickup integrations
 
-Basic OAuth flow starting with Pipedrive OAuth.
+Basic OAuth flow for Clickup integration.
 
 ``Pipedrive OAuth -> Clickup OAuth -> Authorize both codes -> success``
 
